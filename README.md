@@ -3,4 +3,4 @@
 
 [Ссылка на статью](fast-median-article.md)
 
-[Ссылка на исходник]](fast-median-article.org)
+[Ссылка на исходник](fast-median-article.org)
